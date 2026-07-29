@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hari 👋
 
-<!--
-**Harivallaban-007/Harivallaban-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning AI & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Interested in Embedded Systems
+
+🚀 Building projects and learning new technologies.
+
+## Skills
+
+💻 Programming:
+- Python-Basic
+
+🤖 AI & Software:
+- Artificial Intelligence
+- Streamlit
+- Git & GitHub
+
+  
+🌱 Currently Learning:
+- AI Applications
+- Advanced Python
+- Embedded Development
