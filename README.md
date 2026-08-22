@@ -68,7 +68,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF7F)](https://github.com/Harivallaban-007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF7F)](https://www.linkedin.com/in/harivallaban00715)
-[![Website](https://img.shields.io/badge/MindVoice%20AI-14532D?style=for-the-badge&logo=streamlit&logoColor=00FF7F)](https://mindvoice-ai-prototype715.streamlit.app/)
 
 </div>
 
